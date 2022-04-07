@@ -4,7 +4,7 @@
 
 "use strict"
 /**
- * This function calculates volume of a octahedron.
+ * This function calculates the volume of an octahedron.
  */
 function calculate () {
   // get the edge
