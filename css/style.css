@@ -1,0 +1,23 @@
+/* Created by: Anita Kay
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* Assign-02-HTML-Calculations
+*/
+
+body {
+	background-color: #b7bf96;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	background-color: #133a1b;
+	color: #e4deae;
+	padding: 40px;
+	text-align: center;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+p {
+	background-color: #133a1b;
+  color: #e4deae;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
