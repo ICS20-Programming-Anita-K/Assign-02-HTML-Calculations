@@ -8,7 +8,7 @@
  */
 function calculate () {
   // get the edge
-  let edge = parseInt(document.getElementById('edge').value)
+  let edge = parseFloat(document.getElementById('edge').value)
   // calculate the volume of the octahedron
   const VOLUME = (Math.sqrt(2)/3)*(edge**3)
   const AREA = 2*Math.sqrt(3)*(edge**2)
